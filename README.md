@@ -3,5 +3,3 @@
 <p>This this done with EF core and <i>npgSQL</i></p>
 <p>first configure the ConnectionString at <i>CustomerAPI\CustomerAPI\appsettings.json</i></p>
 <p>Change the host, username, database and password as your on PostgreSQL admin</p>
-<h4>to run this</h4>
-<p>https://github.com/Himel-ICE/CustomerManagementAssignment.git</p>
